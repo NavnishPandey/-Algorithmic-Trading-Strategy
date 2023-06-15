@@ -9,7 +9,6 @@ This project uses historical intraday data, technical indicators, and an algorit
 
 ## Installation
 
-1. Clone the repository:
+Clone the repository:
 
-```bash
 git clone https://github.com/your-username/stock-trading-strategy.git
