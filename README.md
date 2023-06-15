@@ -5,7 +5,7 @@ This project uses historical intraday data, technical indicators, and an algorit
 
 - Python 3.x
 - Alpha Vantage API Key
-- Required packages (specified in `requirements.txt`)
+- Required packages (It's in `requirements.txt`)
 
 ## Installation
 
