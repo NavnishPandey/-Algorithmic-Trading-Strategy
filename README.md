@@ -6,3 +6,10 @@ This project uses historical intraday data, technical indicators, and an algorit
 - Python 3.x
 - Alpha Vantage API Key
 - Required packages (specified in `requirements.txt`)
+
+## Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/stock-trading-strategy.git
